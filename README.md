@@ -79,3 +79,5 @@ endpoint and then insert the token obtained into future requests for authorizati
 
 The two key classes to look at in this example are OAuth2SecurityConfiguration and
 SecuredRestBuilder. The VideoSvcClientApiTest shows how the client uses the SecuredRestBuilder.
+
+Source video: https://www.youtube.com/redirect?v=dTAgI_UsqMg&event=video_description&q=https%3A%2F%2Fgithub.com%2FTechPrimers%2Fspring-security-oauth-mysql-example&redir_token=aZqQwjjr08WNaNFzxXTvSqYDeVt8MTU1MjQ3NjcxMkAxNTUyMzkwMzEy
